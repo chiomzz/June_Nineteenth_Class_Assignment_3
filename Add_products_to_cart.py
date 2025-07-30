@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 
 
 driver = webdriver.Chrome()
-driver.get('https://www.saucedemo.com/inventory.html')
+driver.get('https://www.saucedemo.com/')
 driver.maximize_window()
 time.sleep(4)
 
